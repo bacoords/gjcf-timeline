@@ -1,0 +1,41 @@
+.tl-timenav{
+  background-color: rgba($white, 0.1);
+  border-top: 1px solid rgba($green, 0.5);
+  .tl-timemarker{
+    .tl-timemarker-content-container{
+      background-color: rgba($green, 1);
+      border-color: rgba($green, 0.5);
+      border-top-left-radius: 2px;
+      border-top-right-radius: 2px;
+      border-bottom-right-radius: 2px;
+      .tl-timemarker-content{
+         .tl-timemarker-media-container [class*=" tl-icon-"],  .tl-timemarker-media-container [class^="tl-icon-"]{
+           color: $white;
+         }
+         .tl-timemarker-text p.tl-headline.tl-headline-fadeout,
+         .tl-timemarker-text h2.tl-headline.tl-headline-fadeout{
+           color: $white;
+         }
+         .tl-timemarker-text p.tl-headline.tl-headline-fadeout::after,
+         .tl-timemarker-text h2.tl-headline.tl-headline-fadeout::after{
+           background: transparent;
+         }
+        }
+      }
+      &:hover{
+        .tl-timemarker-content-container{
+          background-color: darken(rgba($green, 1),10);
+          .tl-timemarker-content{
+            .tl-timemarker-text p.tl-headline.tl-headline-fadeout::after,
+            .tl-timemarker-text h2.tl-headline.tl-headline-fadeout::after{
+              background: transparent;
+            }
+          }
+        }
+      }
+  }
+}
+//
+// .tl-slide.tl-full-image-background{
+//   background-color:$white;
+// }

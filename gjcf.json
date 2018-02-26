@@ -1,0 +1,152 @@
+{
+  "scale": "human",
+	"title": {
+      "media": {
+          "caption": "",
+          "credit": "",
+          "url": "",
+          "thumb": 	""
+      },
+      "text": {
+          "headline": "10 YR Timeline",
+          "text": "The Guthy-Jackson Charitable Foundation"
+      },
+      "background": {
+        "url" : "https://s3.amazonaws.com/gjcf-wp-uploads/wp-content/uploads/2017/03/29085314/pd-2017-group-header-dark.jpg"
+      }
+    },
+    "events": [
+        {
+            "background": {
+                "color": "#6fb43f",
+                "opacity": 50,
+                "url": null
+            },
+            "start_date": {
+                "year":			"2008",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "GJCF hosts the first-ever NMO Roundtable Conference",
+                "text": "29 Attendees. Los Angeles, CA."
+            }
+        },
+        {
+            "background": {
+                "color": "#6fb43f",
+                "opacity": 50,
+                "url": null
+            },
+            "start_date": {
+                "year":			"2009",
+                "month":		"03",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "GJCF creates \"Connect the Docs\" online international map of NMO clinicians",
+                "text": "It's the first map created to help NMO patients."
+            }
+        },
+        {
+            "background": {
+                "color": "#6fb43f",
+                "opacity": 50,
+                "url": null
+            },
+            "start_date": {
+                "year":			"2009",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "GJCF 2nd NMO Roundtable Conference",
+                "text": "64 Attendees. Los Angeles, CA."
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": "https://www.flickr.com/photos/139812878@N03/26060080384/in/album-72157667446527742/"
+            },
+            "start_date": {
+                "year":			"2009",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "GJCF hosts the first-ever NMO Patient Day",
+                "text": "88 Attendees. Los Angeles, CA. It is the first time NMO patients meet each other face-to-face. "
+            }
+        },
+        {
+            "background": {
+                "color": "#6fb43f",
+                "opacity": 30,
+                "url": null
+            },
+            "start_date": {
+                "year":			"2010",
+                "month":		"03",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "Victoria Jackson participates in 'The Daily Beast's' first 'Women in the World Summit.'",
+                "text": "Victoria Jackson appears as a panelist in 'Seize the Spotlight' discussion with host Tina Brown."
+            }
+        },
+        {
+            "background": {
+                "color": "#6fb43f",
+                "opacity": 50,
+                "url": null
+            },
+            "start_date": {
+                "year":			"2018",
+                "month":		"03",
+                "day": 			"18",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "9th Annual NMO Patient Day",
+                "text": "Los Angeles, CA."
+            }
+        }
+    ]
+}
