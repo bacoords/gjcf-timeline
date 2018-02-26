@@ -44,6 +44,9 @@
                 "opacity": 50,
                 "url": null
             },
+            "media": {
+              "url": "img/connect-the-docs.jpg"
+            },
             "start_date": {
                 "year":			"2009",
                 "month":		"03",
@@ -62,9 +65,9 @@
         },
         {
             "background": {
-                "color": "#6fb43f",
-                "opacity": 50,
-                "url": null
+                "color": "#000",
+                "opacity": 80,
+                "url": "https://img.youtube.com/vi/2NsHh-wqSOM/mqdefault.jpg"
             },
             "start_date": {
                 "year":			"2009",
@@ -76,6 +79,12 @@
                 "millisecond": 	"",
                 "thumbnail": 	"",
                 "format": 		""
+            },
+            "media": {
+                "caption": "",
+                "credit": "Dr. Someone",
+                "url": "<blockquote><p>This conference is an amazing thing...</p></blockquote>",
+                "thumb": 	""
             },
             "text": {
                 "headline": "GJCF 2nd NMO Roundtable Conference",
