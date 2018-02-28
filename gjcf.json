@@ -4,15 +4,15 @@
       "media": {
           "caption": "",
           "credit": "",
-          "url": "",
+          "url": "img/rt10-logo-white@2x.png",
           "thumb": 	""
       },
       "text": {
-          "headline": "10 YR Timeline",
-          "text": "The Guthy-Jackson Charitable Foundation"
+          "headline": "The Guthy-Jackson Charitable Foundation",
+          "text": "A Rare Approach to a Rare Disease"
       },
       "background": {
-        "url" : "https://s3.amazonaws.com/gjcf-wp-uploads/wp-content/uploads/2017/03/29085314/pd-2017-group-header-dark.jpg"
+        "url" : "img/rt-2017-group-shot-hero.jpg"
       }
     },
     "events": [
@@ -34,7 +34,7 @@
                 "format": 		""
             },
             "text": {
-                "headline": "GJCF hosts the first-ever NMO Roundtable Conference",
+                "headline": "First-ever NMO Roundtable Conference",
                 "text": "29 Attendees. Los Angeles, CA."
             }
         },
@@ -59,15 +59,15 @@
                 "format": 		""
             },
             "text": {
-                "headline": "GJCF creates \"Connect the Docs\" online international map of NMO clinicians",
+                "headline": "\"Connect the Docs\" online international map of NMO clinicians is launched",
                 "text": "It's the first map created to help NMO patients."
             }
         },
         {
             "background": {
-                "color": "#000",
-                "opacity": 80,
-                "url": "https://img.youtube.com/vi/2NsHh-wqSOM/mqdefault.jpg"
+                "color": "#6fb43f",
+                "opacity": 100,
+                "url": null
             },
             "start_date": {
                 "year":			"2009",
@@ -82,12 +82,12 @@
             },
             "media": {
                 "caption": "",
-                "credit": "Dr. Someone",
-                "url": "<blockquote><p>This conference is an amazing thing...</p></blockquote>",
+                "credit": "",
+                "url": "https://img.youtube.com/vi/2NsHh-wqSOM/mqdefault.jpg",
                 "thumb": 	""
             },
             "text": {
-                "headline": "GJCF 2nd NMO Roundtable Conference",
+                "headline": "2nd Annual NMO Roundtable Conference",
                 "text": "64 Attendees. Los Angeles, CA."
             }
         },
@@ -109,8 +109,388 @@
                 "format": 		""
             },
             "text": {
-                "headline": "GJCF hosts the first-ever NMO Patient Day",
+                "headline": "First-ever NMO Patient Day",
                 "text": "88 Attendees. Los Angeles, CA. It is the first time NMO patients meet each other face-to-face. "
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2010",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "3rd NMO Roundtable Conference",
+                "text": "76 Attendees. Los Angeles, CA"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2010",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "2nd NMO Patient Day",
+                "text": "144 attendees. Los Angeles, CA"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2011",
+                "month":		"02",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "First NMO awareness brochure is printed by the GJCF",
+                "text": "It's the first nationwide awareness literature for NMO."
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2011",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "4th NMO Roundtable Conference",
+                "text": "86 Attendees. Los Angeles, CA"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2011",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "3rd NMO Patient Day",
+                "text": "187 attendees. Los Angeles, CA"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2011",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "NMO Advocacy Network launches",
+                "text": "Marks the beginning of worldwide awareness about NMO."
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2012",
+                "month":		"10",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "media": {
+              "url": "img/seo-book.jpg"
+            },
+            "text": {
+                "headline": "Victoria Jackson and Ali Guthy publish \"Saving Each Other\"",
+                "text": "It is the first book published about NMO."
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2012",
+                "month":		"10",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "media": {
+              "url": "http://www.dailymotion.com/video/x2y9qrf"
+            },
+            "text": {
+                "headline": "Victoria Jackson and Ali Guthy appear on the \"Ellen Show\"",
+                "text": "It is the first time NMO receives worldwide attention from a mainstream media outlet."
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2012",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "5th NMO Roundtable Conference",
+                "text": "107 Attendees. Los Angeles, CA"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2012",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "4th NMO Patient Day",
+                "text": "296 Attendees. Los Angeles, CA"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2013",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "6th NMO Roundtable Conference",
+                "text": "128 Attendees. Los Angeles, CA"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2013",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "5th NMO Patient Day",
+                "text": "370 Attendees. Los Angeles, CA"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2014",
+                "month":		"08",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "University of Colorado Regional CIRCLES NMO Patient Day",
+                "text": "74 Attendees. Marks the launch of GJCF's Regional CIRCLES NMO Patient Days around the US and Canada. Denver, CO"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2014",
+                "month":		"09",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "GJCF 1st NMO Roundtable Symposium @ ECTRIMS",
+                "text": "140 Attendees.  Boston, MA"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2014",
+                "month":		"10",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "John Hopkins Regional CIRCLES NMO Patient Day ",
+                "text": "170 Attendees. Baltimore, MD"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2014",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "University of British Columbia Regional CIRCLES NMO Information Day ",
+                "text": "120 Attendees. Vancouver, Canada"
+            }
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 30,
+                "url": ""
+            },
+            "start_date": {
+                "year":			"2014",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "University of British Columbia Regional CIRCLES NMO Information Day ",
+                "text": "120 Attendees. Vancouver, Canada"
             }
         },
         {
@@ -129,6 +509,10 @@
                 "millisecond": 	"",
                 "thumbnail": 	"",
                 "format": 		""
+            },
+            "media": {
+              "url": "https://www.youtube.com/watch?v=czuTsriR-nE",
+              "caption": "Victoria Jackson talks to Tina Brown about ways she's made a difference in women's lives."
             },
             "text": {
                 "headline": "Victoria Jackson participates in 'The Daily Beast's' first 'Women in the World Summit.'",
